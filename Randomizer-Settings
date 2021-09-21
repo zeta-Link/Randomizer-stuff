@@ -1,0 +1,87 @@
+Randomizer v. 6.0.0
+Multiworld: 2 worlds
+
+Main Rules:
+  Forest:                                               Open Forest
+  Kakariko Gate:                                        Open Gate
+  Open Door of Time:                                    off
+  Zora's Fountain:                                      Default behavior (closed)
+  Gerudo Fortress:                                      Default behavior
+  Rainbow Bridge Req:                                   All 6 Medallions
+  Random Number of Ganon's Trials:                      off
+  Ganon's Trials count:                                 6
+  
+  Starting Age:                                         Child
+  Shuffle Interior Entrances:                           off
+  Shuffle Grotto Entrances:                             off
+  Shuffle Dungeon Entrances:                            off
+  Shuffle Overworld Entrances:                          off
+  Randomize Owl Drops:                                  off
+  Rnadomize Warp Song Desitnations:                     off
+  Triforce Hunt:                                        off
+  Bombchus are considered logic:                        on
+  Dungeons have one major item:                         off
+  Random Number of MQ Dungeons:                         off
+  MQ Dungeon count:                                     0
+  
+  Shuffle Songs:                                        Anywhere
+  Shopsanity:                                           Shuffled Shops (4 items)
+  Tokensanity:                                          off
+  Scrub Shuffle:                                        on (Affordable)
+  Shuffle cows:                                         off
+  Shuffle Kokiri Sword:                                 on
+  Shuffle Ocarinas:                                     on
+  Shuffle Weird Egg:                                    on
+  Shuffle Gerudo card:                                  on
+  Shuffle Magic Beans:                                  on
+  Shuffle medigoron and Carpet salesman:                on
+  
+  Maps & Compasses:                                     Start With
+  Small keys:                                           Own dungeon
+  Gerudo Fortress Keys:                                 Vanilla locations
+  Boss Keys:                                            Own dungeon
+  Ganon's Boss Key:                                     Own Dungeon
+  Maps and Compasses Give Information:                  off
+  
+  Exclusions:                                           GF HBA 1500 Points, Graveyard Dampe Race Freestanding PoH
+ 
+  Starting Equipment:                                   none
+  
+  Skip Child Zelda:                                     off
+  Skip Tower Escape Sequence:                           on
+  Skip Child Stealth:                                   on
+  Skip Epona Race:                                      off
+  Skip Some Minigame Phases:                            off
+  Complete Mask Quest:                                  on
+  Enable Useful Cutscenes:                              off
+  Fast Chest Cutscenes:                                 on
+  Free Scarecrow's Song:                                on
+  Fast Bunny Hood:                                      off
+  Random Cucco Count:                                   off
+  Cucco count:                                          1
+  Random Big Poe Target Count:                          off
+  Big Poe Target Count:                                 1
+  
+  Randomize Ocarina Song Notes:                         off
+  Chest Size Matches Contents:                          off
+  Clearer Hints:                                        on
+  Gossip Stones:                                        Hints; Need nothing
+  Hint Distribution:                                    Balanced
+  Text Shuffle:                                         No text shuffled
+  Damage Multiplier:                                    Normal
+  Hero Mode:                                            off
+  Starting Time of Day:                                 Default (10:00)
+  
+  Item Pool:                                            Balanced
+  Ice Traps:                                            Extra Ice Traps
+  Ice Trap Appearance:                                  Anything
+  Adult Trade Sequence Earliest Item:                   Claim Check
+  Adult Trade Sequence Latest Item:                     Claim Check
+  
+  Default Targeting Option:                             hold
+  Display D-Pad HUD:                                    on
+  Item Model Colors Match Costmetics:                   on
+  Randomize All Cosmetics:                              on
+  
+  Randomize All Sound Effects:                          on
+  
